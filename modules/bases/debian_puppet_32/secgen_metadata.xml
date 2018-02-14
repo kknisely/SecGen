@@ -17,7 +17,7 @@
   <distro>Debian 7.8 (wheezy) 32-bit (i386)</distro>
   <url>https://vagrantcloud.com/puppetlabs/boxes/debian-7.8-32-puppet/versions/1.0.4/providers/virtualbox.box</url>
 
-  <reference>hhttps://vagrantcloud.com/puppetlabs</reference>
+  <reference>https://vagrantcloud.com/puppetlabs</reference>
   <software_license>various</software_license>
 
   <ovirt_template>debian_server</ovirt_template>
