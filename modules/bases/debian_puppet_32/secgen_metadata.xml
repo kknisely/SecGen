@@ -15,9 +15,9 @@
   <platform>linux</platform>
   <platform>unix</platform>
   <distro>Debian 7.8 (wheezy) 32-bit (i386)</distro>
-  <url>http://atlas.hashicorp.com/puppetlabs/boxes/debian-7.8-32-puppet/versions/1.0.4/providers/virtualbox.box</url>
+  <url>https://vagrantcloud.com/puppetlabs/boxes/debian-7.8-32-puppet/versions/1.0.4/providers/virtualbox.box</url>
 
-  <reference>https://atlas.hashicorp.com/puppetlabs</reference>
+  <reference>hhttps://vagrantcloud.com/puppetlabs</reference>
   <software_license>various</software_license>
 
   <ovirt_template>debian_server</ovirt_template>
